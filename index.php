@@ -6,6 +6,6 @@
     <title>Muro informativo</title>
 </head>
 <body>
-    
+    <h1>Hi! everyone</h1>
 </body>
 </html>
